@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: manjgit/netflix:latest
+        image: motivetesting/netflix:latest
         ports:
         - containerPort: 3000
